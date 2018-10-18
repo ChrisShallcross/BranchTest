@@ -8,6 +8,7 @@ namespace BranchTest
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Feature 01");
+            Console.WriteLine("Master");
         }
     }
 }
